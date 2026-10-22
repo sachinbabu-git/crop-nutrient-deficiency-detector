@@ -1,0 +1,6 @@
+{
+  "name": "Crop Nutrient Deficiency Detector",
+  "description": "An AI-powered diagnostic system for detecting nutrient deficiencies in crop leaves and fruits, complete with severity estimation and treatment guides.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
